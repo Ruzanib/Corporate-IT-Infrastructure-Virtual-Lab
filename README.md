@@ -52,3 +52,17 @@ During the integration phase, a significant network communication barrier occurr
 ##  Lab Screenshots & Proof of Concept
 
 ### Active Directory Logical Structure (OUs & Users)
+
+<img width="415" height="364" alt="OUs" src="https://github.com/user-attachments/assets/63a67bb4-b94d-4700-9e8f-6c937e278b12" />
+
+**Figure 1: Active Directory logical structure displaying the created IT and HR Organizational Units (OUs) along with provisioned user accounts.**
+
+**Successful Domain Integration**
+
+<img width="486" height="243" alt="welcome" src="https://github.com/user-attachments/assets/c598a8bd-1f81-4dd9-9ed6-d01d6c6f8ff3" />
+
+**Figure 2: Successful integration of the Windows 10 workstation into the RozIT.local corporate domain after resolving DNS conflicts.**
+
+<img width="558" height="361" alt="cmd" src="https://github.com/user-attachments/assets/77b660af-9795-4770-9040-db0dcce7a6a6" />
+
+**Figure 3: Hardcoding the primary DNS to point directly to the Domain Controller and disabling IPv6 to stabilize name resolution.**
